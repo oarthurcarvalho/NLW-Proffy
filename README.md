@@ -6,12 +6,12 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - API:
 
-    - NodeJS
-    - Typescript
-    - ts-node-dev
-    - Express
-    - KnexJS
-    - SQLite3
+    - [NodeJS](https://nodejs.org/en/)
+    - [Typescript](https://www.typescriptlang.org/)
+    - [ts-node-dev](https://github.com/whitecolor/ts-node-dev)
+    - [Express](https://expressjs.com/)
+    - [KnexJS](http://knexjs.org/)
+    - [SQLite3](https://www.npmjs.com/package/sqlite3)
 
 - Web:
 
